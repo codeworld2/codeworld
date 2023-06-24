@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @princessfatema
+- 👋 Hi! My name is princessfatema and welcome to my Github!
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on  any project
